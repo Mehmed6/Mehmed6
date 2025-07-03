@@ -1,63 +1,66 @@
 # 👋 Hi, I'm Mehmet Doğan
 
 🎯 **Java & Spring Boot Backend Developer**  
-🌍 Based in **Germany**, open to remote & on-site roles  
-🎓 Dual-degree Engineer | M.Sc. in Automation @ FH Westküste  
-📬 mehmed_dogan6@hotmail.com  
+🇩🇪 Based in **Heide, Germany** | Open to **remote** & **on-site** roles  
+📧 mehmed_dogan6@hotmail.com | 📞 +49 176 6498 7716  
+🛂 Work Permit: Yes | 📅 DoB: 10.09.1993 | 💬 Languages: Turkish, Kurdish, German (C1), English (B1-B2)  
 
 ---
 
-### 🚀 Tech Stack & Interests
+## 🚀 Tech Stack
 
-- 💻 **Java**, **Spring Boot**, **Microservices**
-- 🛠️ **Docker**, **Kafka**, **PostgreSQL**, **MongoDB**, **Elasticsearch**
-- 🧪 **JUnit**, **Swagger**, **JPA/Hibernate**
-- 🌐 RESTful APIs, Event-driven Architecture
-- 📦 Agile Teams | CI/CD | Clean Code | System Design
-
----
-
-### 📚 Education
-
-- 🎓 **Master’s in Automation Engineering** — FH Westküste, Germany  
-- 🎓 **B.Sc. Mechatronics Engineering** — Kocaeli University  
-- 🎓 **B.Sc. Electrical Engineering (Double Major)** — Kocaeli University  
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA, Hibernate  
+- **Databases:** PostgreSQL, MongoDB, Oracle, MS SQL, Elasticsearch  
+- **Architecture:** Microservices, Event-driven (Kafka), Docker, gRPC  
+- **Frontend (Basic):** HTML, CSS, Bootstrap, Thymeleaf  
+- **Testing & Docs:** JUnit, Swagger  
+- **Tools:** Git, IntelliJ, Maven, GitHub, GitHub Actions  
 
 ---
 
-### 🧠 Certifications & Courses
+## 🎓 Education
 
-- Application Development with Java (2x)
-- OOP with Java
-- SQL & Database Programming (PostgreSQL, MS SQL, Oracle)
+- 🎓 **M.Sc. Automation Engineering** – FH Westküste, Germany (Ongoing)  
+- 🎓 **B.Sc. Mechatronics Engineering** – Kocaeli University  
+- 🎓 **B.Sc. Electrical Engineering (Double Major)** – Kocaeli University  
 
 ---
 
-### 🛠️ Selected Projects
+## 🧠 Courses & Certifications
+
+- ✔️ Application Development with Java (2 levels)  
+- ✔️ OOP with Java  
+- ✔️ Database Programming (PostgreSQL, Oracle, MS-SQL)  
+- ✔️ TCP/UDP, gRPC, Microservice Architecture  
+
+---
+
+## 💼 Selected Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🛒 E-Commerce App](https://github.com/Mehmed6/e-commerce-java-spring-boot) | Full-stack shopping app | Spring Boot, Thymeleaf |
-| [👥 Human Resources Flow](https://github.com/Mehmed6/Human-Resources-Flow) | HR management automation | Spring Boot, PostgreSQL |
-| [💼 Job Finder](https://github.com/Mehmed6/JobFinder) | Job listing portal | Spring Boot, REST |
-| [🏦 Secure ATM System](https://github.com/Mehmed6/SecureBankATM) | ATM simulation with audit logging | Spring Boot, Kafka |
-| [✅ Task Management Service](https://github.com/Mehmed6/TaskManagementSystemService) | Task planning system | Spring Boot, JWT |
+| [🛒 E-Commerce App](https://github.com/Mehmed6/e-commerce-java-spring-boot) | Full-stack shopping system | Spring Boot, Thymeleaf, PostgreSQL |
+| [👥 Human Resources Flow](https://github.com/Mehmed6/Human-Resources-Flow) | HR automation with JWT & logs | Spring Boot, PostgreSQL, AOP |
+| [💼 Job Finder](https://github.com/Mehmed6/JobFinder) | Job listing with role-based access | Spring Boot, PostgreSQL |
+| [🏦 Secure ATM System](https://github.com/Mehmed6/SecureBankATM) | Secure ATM simulation with logging and limited login attempts | Spring Boot, Spring Security, PostgreSQL |
+| [✅ Task Management Service](https://github.com/Mehmed6/TaskManagementSystemService) | Task tracking with JWT auth | Spring Boot, PostgreSQL |
 
-➡️ [See all my GitHub repos »](https://github.com/Mehmed6?tab=repositories)
+➡️ [View All Projects »](https://github.com/Mehmed6?tab=repositories)
 
 ---
 
-### 📈 GitHub Stats
+## 📚 GitHub Highlights
 
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmed6&show_icons=true&theme=gruvbox&hide=issues)
 
 ---
 
-### 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I'm always interested in collaborating on open-source projects, contributing to scalable systems, or just talking tech!  
-**Reach out via email or [LinkedIn](https://www.linkedin.com/in/mehmet-do%C4%9Fan-183978116/)** if you'd like to connect.
+I'm always open to freelance projects, open-source collaboration, or full-time backend roles.  
+📩 Feel free to contact me via email or [LinkedIn](https://www.linkedin.com/in/mehmet-do%C4%9Fan-183978116/)  
+Let’s build scalable, clean, and efficient systems together 🚀
 
 ---
 
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+> 🧠 “Simplicity is the soul of efficiency.” – Austin Freeman
