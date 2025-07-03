@@ -56,7 +56,7 @@
 ### 🤝 Let’s Connect
 
 I'm always interested in collaborating on open-source projects, contributing to scalable systems, or just talking tech!  
-**Reach out via email or [LinkedIn](https://www.linkedin.com/in/eklemen-gerekiyor)** if you'd like to connect.
+**Reach out via email or [LinkedIn](https://www.linkedin.com/in/mehmet-do%C4%9Fan-183978116/)** if you'd like to connect.
 
 ---
 
