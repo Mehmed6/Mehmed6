@@ -8,15 +8,38 @@
 
 ---
 
-## 🚀 Tech Stack
+🚀 Tech Stack & Focus Areas
+🧠 Core Backend
+💻 Java, Spring Boot, Spring Security
 
-- **Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA, Hibernate  
-- **Databases:** PostgreSQL, MongoDB, Oracle, MS SQL, Elasticsearch  
-- **Architecture:** Microservices, Event-driven (Kafka), Docker, gRPC  
-- **Frontend (Basic):** HTML, CSS, Bootstrap, Thymeleaf  
-- **Testing & Docs:** JUnit, Swagger  
-- **Tools:** Git, IntelliJ, Maven, GitHub, GitHub Actions
-- 📦 Agile Teams | CI/CD | Clean Code | System Design
+🌐 RESTful APIs, JPA, Hibernate
+
+🧱 Architecture & System Design
+🧭 Microservices, Event-driven Architecture (Kafka, gRPC)
+
+🛠️ Docker, CI/CD, GitHub Actions
+
+🗄️ Databases
+🐘 PostgreSQL, 🟢 MongoDB
+
+🟣 MS SQL, 🔵 Oracle
+
+🔍 Elasticsearch
+
+🎨 Frontend (Basic)
+🖥️ HTML, CSS, Bootstrap, Thymeleaf
+
+🧪 Testing & Documentation
+✅ JUnit, Swagger
+
+💼 Best Practices
+📦 Agile Methodologies,
+
+🧼 Clean Code,
+
+🧩 System Design,
+
+🔄 Git & GitHub Workflows
 
 ---
 
