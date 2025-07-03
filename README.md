@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Mehmet Doğan
 
 🎯 **Java & Spring Boot Backend Developer**  
-🇩🇪 Based in **Heide, Germany** | Open to **remote** & **on-site** roles  
-📧 mehmed_dogan6@hotmail.com | 📞 +49 176 6498 7716  
+🌍 Based in **Germany**, open to remote & on-site roles  
+🎓 Dual-degree Engineer | M.Sc. in Automation @ FH Westküste  
+📬 mehmed_dogan6@hotmail.com 
 🛂 Work Permit: Yes | 📅 DoB: 10.09.1993 | 💬 Languages: Turkish, Kurdish, German (C1), English (B1-B2)  
 
 ---
@@ -14,7 +15,8 @@
 - **Architecture:** Microservices, Event-driven (Kafka), Docker, gRPC  
 - **Frontend (Basic):** HTML, CSS, Bootstrap, Thymeleaf  
 - **Testing & Docs:** JUnit, Swagger  
-- **Tools:** Git, IntelliJ, Maven, GitHub, GitHub Actions  
+- **Tools:** Git, IntelliJ, Maven, GitHub, GitHub Actions
+- 📦 Agile Teams | CI/CD | Clean Code | System Design
 
 ---
 
