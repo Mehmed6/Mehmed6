@@ -71,7 +71,7 @@
 
 ## 📚 GitHub Highlights
 
-![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmed6&show_icons=true&theme=gruvbox&hide=issues)
+![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehmed6&show_icons=true&theme=gruvbox&hide=issues&count_private=true)
 
 ---
 
