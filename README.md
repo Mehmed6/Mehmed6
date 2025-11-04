@@ -82,7 +82,7 @@
 ## 🤝 Let's Connect
 
 I'm always open to freelance projects, open-source collaboration, or full-time full-stack roles.  
-📩 Feel free to contact me via email or [LinkedIn](https://www.linkedin.com/in/mehmet-do%C4%9Fan-183978116/)  
+📩 Feel free to contact me via email or [LinkedIn](https://www.linkedin.com/in/mehmet-dogan-183978116/)  
 Let’s build scalable, clean, and efficient systems together 🚀
 
 ---
